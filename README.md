@@ -75,14 +75,3 @@ Neste projeto foram aplicados conceitos de modelagem de dados, normalização, i
 ## Autor
 
 Sandra Souza  
-GitHub: idade e recomendações de negócio. :contentReference[oaicite:1]{index=1}
-
-Depois, no terminal:
-
-```bash id="e7b6q1"
-git add .
-git commit -m "Adiciona README do projeto"
-git push
-```
-
-Sendo direto: **esse projeto pode chamar atenção em vagas de BI junior.** Ele mostra que você não só consulta dados — você conecta consulta com decisão de negócio.
